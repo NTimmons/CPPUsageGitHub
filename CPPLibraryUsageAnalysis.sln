@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CPPLibraryUsageAnalysis", "CPPLibraryUsageAnalysis\CPPLibraryUsageAnalysis.pyproj", "{6F1A8766-330B-4954-97D2-A688871E0AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1A8766-330B-4954-97D2-A688871E0AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1A8766-330B-4954-97D2-A688871E0AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D716631-BA15-41F2-9BE9-E07F612B2265}
+	EndGlobalSection
+EndGlobal
